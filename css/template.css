@@ -150,7 +150,7 @@ header.masthead {
   min-height: auto;
   text-align: center;
   color: white;
-background-color: #ffffff
+background-image: url("/img/trees.jpg");
   background-position: center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -173,7 +173,7 @@ background-color: #ffffff
       font-weight: 700;
       margin-top: 0;
       margin-bottom: 0;
-      color: black; }
+      color: white; }
 
   @media (min-width: 768px) {
     header.masthead {
