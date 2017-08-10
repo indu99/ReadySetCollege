@@ -14,7 +14,7 @@ body {
 hr {
   max-width: 50px;
   border-width: 3px;
-    border-color: #F05F40; }
+  border-color: #F05F40; }
 
 hr.light {
   border-color: white; }
@@ -33,7 +33,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Helvetica Neue', Arial, sans-serif; }
+  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif; }
 
 p {
   font-size: 16px;
@@ -88,7 +88,7 @@ body {
   -moz-transition: all .2s;
   transition: all .2s; }
   #mainNav .navbar-brand {
-    font-weight: 400;
+    font-weight: 700;
     text-transform: uppercase;
     color: #F05F40;
     font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif; }
@@ -96,13 +96,13 @@ body {
       color: #f05f40; }
   #mainNav .navbar-toggle {
     font-size: 12px;
-    font-weight: 400;
+    font-weight: 700;
     text-transform: uppercase;
     color: #222222; }
   #mainNav .navbar-nav > li.nav-item > a.nav-link,
   #mainNav .navbar-nav > li.nav-item > a.nav-link:focus {
     font-size: 13px;
-    font-weight: 400;
+    font-weight: 700;
     text-transform: uppercase;
     color: #222222; }
     #mainNav .navbar-nav > li.nav-item > a.nav-link:hover,
@@ -150,7 +150,7 @@ header.masthead {
   min-height: auto;
   text-align: center;
   color: white;
-background-image: url("../img/fin.jpg");
+background-image: url("../img/trees.jpg");
   background-position: center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -163,14 +163,14 @@ background-image: url("../img/fin.jpg");
     text-align: center; }
     header.masthead .header-content .header-content-inner h1 {
       font-size: 30px;
-      font-weight: 400;
+      font-weight: 700;
       margin-bottom: 50px;
       text-transform: uppercase; }
     header.masthead .header-content .header-content-inner hr {
       margin: 30px auto; }
     header.masthead .header-content .header-content-inner p {
       font-size: 40px;
-      font-weight: 400;
+      font-weight: 700;
       margin-top: 0;
       margin-bottom: 0;
       color: white; }
@@ -237,7 +237,7 @@ background-image: url("../img/fin.jpg");
         font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif; }
       .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category {
         font-size: 14px;
-        font-weight: 400;
+        font-weight: 600;
         text-transform: uppercase; }
       .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-name {
         font-size: 18px; }
